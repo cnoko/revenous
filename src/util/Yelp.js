@@ -1,4 +1,4 @@
-const apiKey = '1H8nUl6wUrUmpXdBEmycqp1d4fHgi-ORhNOq0aZrsk0pOYl1K5NiAeyixCIZhO4X5gIAJfSiw4JVaAJSlbPpf-x8XW5E-6S9DaroEKIe-LZkZoME9P_3n2NHVrNeX3Yx';
+const apiKey = '***';
 const defaultBusiness = {
   id: '',
   imageSrc: 'https://s3.amazonaws.com/codecademy-content/programs/react/ravenous/pizza.jpg',
