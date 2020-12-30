@@ -1,4 +1,4 @@
-const apiKey = '***';
+const apiKey = process.env.REACT_APP_YELP_API_KEY;
 const defaultBusiness = {
   id: '',
   imageSrc: 'https://s3.amazonaws.com/codecademy-content/programs/react/ravenous/pizza.jpg',
